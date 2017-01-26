@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServer", "SocketServer\SocketServer.csproj", "{5A45EE2A-B488-4B1C-8861-170CBABD05E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClient", "TestClient\TestClient.csproj", "{A482A5E8-5701-42FF-8B3E-F47E65A639B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A45EE2A-B488-4B1C-8861-170CBABD05E4}.Debug|x86.ActiveCfg = Debug|x86
+		{5A45EE2A-B488-4B1C-8861-170CBABD05E4}.Debug|x86.Build.0 = Debug|x86
+		{5A45EE2A-B488-4B1C-8861-170CBABD05E4}.Release|x86.ActiveCfg = Release|x86
+		{5A45EE2A-B488-4B1C-8861-170CBABD05E4}.Release|x86.Build.0 = Release|x86
+		{A482A5E8-5701-42FF-8B3E-F47E65A639B5}.Debug|x86.ActiveCfg = Debug|x86
+		{A482A5E8-5701-42FF-8B3E-F47E65A639B5}.Debug|x86.Build.0 = Debug|x86
+		{A482A5E8-5701-42FF-8B3E-F47E65A639B5}.Release|x86.ActiveCfg = Release|x86
+		{A482A5E8-5701-42FF-8B3E-F47E65A639B5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

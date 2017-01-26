@@ -1,0 +1,8 @@
+/Users/liyong/Projects/SocketServer/SocketServer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/liyong/Projects/SocketServer/SocketServer/bin/Debug/System.Threading.Tasks.Dataflow.dll
+/Users/liyong/Projects/SocketServer/SocketServer/bin/Debug/Google.ProtocolBuffersLite.dll
+/Users/liyong/Projects/SocketServer/SocketServer/bin/Debug/protoDll.dll
+/Users/liyong/Projects/SocketServer/SocketServer/bin/Debug/SocketServer.exe.mdb
+/Users/liyong/Projects/SocketServer/SocketServer/bin/Debug/SocketServer.exe
+/Users/liyong/Projects/SocketServer/SocketServer/obj/x86/Debug/SocketServer.exe
+/Users/liyong/Projects/SocketServer/SocketServer/obj/x86/Debug/SocketServer.exe.mdb
